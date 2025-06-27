@@ -6,7 +6,7 @@
 
 ## 🚀 Demo
 
-![Image](https://github.com/user-attachments/assets/38b05e89-09c2-48dd-beb2-31744fe49b35)
+![Image](https://github.com/user-attachments/assets/f239c390-72d0-427d-9067-695b1c0296df)
 
 ---
 
