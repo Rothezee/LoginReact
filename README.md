@@ -1,19 +1,31 @@
 # Mi Primer Proyecto con React + Vite
 
-¡Bienvenido/a! Este es mi **primer proyecto con React**, creado desde cero utilizando [Vite](https://vitejs.dev/) para un entorno de desarrollo rápido y moderno.
+¡Bienvenido/a! Este es mi **primer proyecto con React**, creado desde cero utilizando Vite para un entorno de desarrollo rápido y moderno.
 
-## 🚀 ¿Qué es este proyecto?
+---
 
-Este repositorio es el resultado de mis primeros pasos aprendiendo React. Aquí encontrarás una aplicación sencilla pero funcional, ideal para quienes están comenzando y quieren ver cómo se estructura una app con React y Vite.  
-Incluye funcionalidades típicas de autenticación como login y registro, usando componentes reutilizables, estilos modernos y buenas prácticas.
+## 🚀 Demo
+
+<!-- Aquí puedes añadir una captura de pantalla o un GIF de tu aplicación funcionando. 
+Por ejemplo:
+![Demo de la app](demo.gif)
+-->
+
+---
 
 ## 🛠️ Tecnologías utilizadas
 
-- **React** – Librería de JavaScript para construir interfaces de usuario.
-- **Vite** – Herramienta de desarrollo ultrarrápida para aplicaciones modernas.
-- **CSS Modules** – Para estilos locales y limpios.
-- **ESLint** – Para mantener el código limpio y consistente.
-- **(Opcional) React Icons** – Para iconografía sencilla y moderna.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="50" height="50"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="ESLint" width="50" height="50"/>
+</div>
+
+---
 
 ## 📦 Instalación y uso
 
@@ -32,6 +44,8 @@ Incluye funcionalidades típicas de autenticación como login y registro, usando
     ```
 4. Abre [http://localhost:5173](http://localhost:5173) en tu navegador para ver la app.
 
+---
+
 ## ✨ Características principales
 
 - Login y Registro con validación de formularios.
@@ -39,12 +53,16 @@ Incluye funcionalidades típicas de autenticación como login y registro, usando
 - Estilos modernos y minimalistas.
 - Código fácil de entender, ideal para principiantes.
 
+---
+
 ## 📚 Sobre mi aprendizaje
 
 Este proyecto es parte de mi proceso de aprendizaje con React.  
 No solo me ha servido para entender la estructura de una aplicación React, sino también para familiarizarme con Vite, el manejo de componentes, props, estado y estilos modernos en CSS.
 
 Si eres principiante como yo, ¡espero que te sirva de ayuda o inspiración!
+
+---
 
 ## 📄 Créditos y recursos
 
