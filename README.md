@@ -6,10 +6,7 @@
 
 ## 🚀 Demo
 
-<!-- Aquí puedes añadir una captura de pantalla o un GIF de tu aplicación funcionando. 
-Por ejemplo:
-![Demo de la app](demo.gif)
--->
+![Image](https://github.com/user-attachments/assets/38b05e89-09c2-48dd-beb2-31744fe49b35)
 
 ---
 
