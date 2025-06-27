@@ -1,0 +1,59 @@
+.icon {
+  display: inline-block;
+  vertical-align: middle;
+  width: 1.35em;
+  height: 1.35em;
+  stroke-width: 0;
+
+}
+
+.icon.message-icon {
+  color: #e53935; 
+  margin-right: 0.5em;
+  width: 1.2em;
+  height: 1.2em;
+}
+
+.icon.checkCircle {
+  color: #43a047;
+}
+
+.icon.close-icon {
+  color: #7a7a7a;
+  width: 1.1em;
+  height: 1.1em;
+}
+
+.icon.input-icon {
+  color: #5c6bc0;
+  margin-right: 0.5em;
+}
+
+.icon.toggle-icon {
+  color: #999;
+}
+
+.icon.avatar-icon {
+  color: #1565c0;
+  width: 2.7em;
+  height: 2.7em;
+}
+
+.icon.social-icon {
+  width: 1.3em;
+  height: 1.3em;
+  margin-right: 0.35em;
+}
+
+.icon.loading-spinner {
+  animation: icon-spin 1s linear infinite;
+  color: #1976d2;
+  width: 2em;
+  height: 2em;
+}
+
+@keyframes icon-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
